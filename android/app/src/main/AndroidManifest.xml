@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_deploy_test">
+    package="com.deploy_test.flutter">
    <application
         android:label="flutter_deploy_test"
         android:name="${applicationName}"
